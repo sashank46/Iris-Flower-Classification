@@ -1,7 +1,5 @@
 # Iris-Flower-Classification
 
-# Iris Flower Classification
-
 ## Objective
 
 The objective of this project is to classify iris flowers into one of three species:
